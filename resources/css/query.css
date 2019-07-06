@@ -41,13 +41,24 @@
     margin-left: 1.2rem;
 }
     
-    .myblock {
+ /*   .myblock {
     display: block;
     float: left;
     margin-left: 1rem;
     margin-top: 0.5rem;
         margin-bottom: 0.5rem;
+}*/
+    .myblock {
+    display: block;
+    float: left;
+    margin-left: 8%;
+    margin-right: 17%;
+    margin-top: 0.5rem;
+        margin-bottom: 0.5rem;
 }
+    .card {
+        width: 100% !important;
+    }
 
     
     .span-1-of-4 {
